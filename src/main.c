@@ -32,6 +32,7 @@ int main(int argc, char *argv[]) {
     init_transit_system(&g_system);
     print_banner("PUBLIC BUS ROUTE FREQUENCY & DEPOT PLANNER");
     printf("  Project 12: Design and Analysis of Algorithms (CSEG3053)\n");
+    printf("  Student: MOHIT SINGH RATHOUR (SAP ID: 590025840)\n");
     printf("  B.Tech Computer Science & Engineering | Academic Year 2026\n");
     print_separator();
 
@@ -99,7 +100,8 @@ int main(int argc, char *argv[]) {
             case 12: run_scenarios_menu(&g_system); break;
             case 0:
                 print_banner("THANK YOU FOR USING PUBLIC BUS PLANNER!");
-                printf("  Academic project by B.Tech student (Project 12, CSEG3053).\n");
+                printf("  Academic project by MOHIT SINGH RATHOUR (590025840)\n");
+                printf("  Project 12, CSEG3053 - Design and Analysis of Algorithms\n");
                 printf("  Exiting application...\n\n");
                 break;
             default:

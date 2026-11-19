@@ -1,6 +1,7 @@
 # Public Bus Route Frequency and Depot Planner
 ### Project 12 | Design and Analysis of Algorithms (CSEG3053)
-**Author:** B.Tech Student, Computer Science & Engineering  
+**Author:** MOHIT SINGH RATHOUR (SAP ID: 590025840)  
+**Program:** B.Tech Computer Science & Engineering  
 **Standard:** Pure C (C99), Standard C Library Only (`stdio.h`, `stdlib.h`, `string.h`, `time.h`, `limits.h`, `math.h`)  
 **Zero External Dependencies:** No C++, no STL, no third-party libraries.
 
