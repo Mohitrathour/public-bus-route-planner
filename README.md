@@ -185,4 +185,3 @@ The automated test runner (`tests/test_main.c`) verifies 44 assertion test cases
 Test Verdict: 44 / 44 Tests Passed (100.0% Success Rate)
 ```
 See `docs/TEST_CASES.md` for the complete expected vs. actual output matrix.
-See `docs/VIVA_QUESTIONS.md` for 40 likely viva voce exam questions and model answers.
