@@ -1,0 +1,11 @@
+route_id,name,distance,travel_time,cost,passengers
+101,ISBT to Rajpur Expressway,15,35,1200,650
+102,Prem Nagar to Survey Circular,14,32,1100,520
+103,Ballupur to Clement Town,18,42,1450,710
+104,Clock Tower to Sahastradhara,12,28,950,480
+105,ISBT to Jolly Grant Shuttle,28,60,2200,890
+106,FRI to Pacific Mall Feeder,13,30,1050,460
+107,Raipur to Subhash Nagar,16,38,1300,590
+108,Rajpur to Jakhan Direct,7,18,600,320
+109,Clock Tower Central Loop,10,24,800,410
+110,Prem Nagar to FRI Link,8,20,700,350
